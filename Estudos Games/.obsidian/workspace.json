@@ -11,12 +11,8 @@
             "id": "34952367ece0efec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Design/Padrões de Games/Padrão do Observador.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design/Padrões de Games/Padrão do Observador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design/Padrões de Games/Padrão do Observador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Design/Padrões de Games/Padrão do Observador.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,17 +140,17 @@
   },
   "active": "34952367ece0efec",
   "lastOpenFiles": [
-    "Godot/Padrões/Organização de Código da Godot.md",
-    "Game Design/Padrões de Games/Padrão do Observador.md",
-    "Imagens/ObjetoKey Lsitener.png",
     "Godot/Padrões/Padrões de Código Da Godot.md",
+    "Godot/Padrões/Organização de Código da Godot.md",
+    "Godot/Padrões/Definir atributos de um objeto como nodes filhos.md",
     "Game Design/Padrões de Games/Padrões de Games.md",
+    "Game Design/Padrões de Games/Padrão do Observador.md",
+    "Coding/Padrões de Código/Padrões de Código.md",
+    "Imagens/ObjetoKey Lsitener.png",
     "Imagens/Ordem do código.png",
     "Estudo de Games.md",
     "().md",
-    "Coding/Padrões de Código/Padrões de Código.md",
     "Imagens",
-    "Godot/Padrões/Definir atributos de um objeto como nodes filhos.md",
     "Godot/Padrões/JP Coelho.jpg",
     "Game Design/Planejamento e Documentação",
     "Sem título.canvas",
