@@ -1,0 +1,1 @@
+Consiste em um padrão de Jogos em que os objetos do jogo se comunicam através de observações e mensagens, tornando o código bem mais encapsulado.

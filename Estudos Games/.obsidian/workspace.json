@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1a92b579fec70927",
+        "id": "a977e938e81d6ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "28f089e05a4de838",
+            "id": "b7c7fa785d921e3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Godot/Padrões/Definir atributos de um objeto como nodes filhos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godot/Padrões/Definir atributos de um objeto como nodes filhos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godot/Padrões/Definir atributos de um objeto como nodes filhos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Godot/Padrões/Definir atributos de um objeto como nodes filhos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,13 +138,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "28f089e05a4de838",
+  "active": "b7c7fa785d921e3c",
   "lastOpenFiles": [
-    "Godot/Padrões/Padrões de Código Da Godot.md",
-    "Godot/Padrões/Definir atributos de um objeto como nodes filhos.md",
+    "2024-03-30.md",
+    "Coding/Padrões de Código/Padrões de Código.md",
     "Game Design/Padrões de Games/Padrão do Observador.md",
     "Game Design/Padrões de Games/Padrões de Games.md",
-    "Coding/Padrões de Código/Padrões de Código.md",
+    "Godot/Padrões/Definir atributos de um objeto como nodes filhos.md",
+    "Godot/Padrões/Padrões de Código Da Godot.md",
     "Godot/Padrões",
     "Code Patterns.md",
     "Coding/Padrões de Código",
