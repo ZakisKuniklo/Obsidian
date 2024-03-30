@@ -1,7 +1,10 @@
 Padrões de código são técnicas otimizadas para se realizar código.
 
 Vou separar em Três categorias:
-- Padrões de código Genéricos (Todo tipo de códigos)
+- Padrões de código Genéricos (Todo tipo de códigos, mas vou focar em games)
 - [[Padrões de Games]]
 - [[Padrões de Código Da Godot]]
+
+### Padrões de código que anotei
+- 
 

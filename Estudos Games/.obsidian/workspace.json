@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a977e938e81d6ccb",
+        "id": "737b041dc26bc2fb",
         "type": "tabs",
         "children": [
           {
-            "id": "b7c7fa785d921e3c",
+            "id": "34952367ece0efec",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,19 +138,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b7c7fa785d921e3c",
+  "active": "34952367ece0efec",
   "lastOpenFiles": [
-    "2024-03-30.md",
-    "Coding/Padrões de Código/Padrões de Código.md",
     "Game Design/Padrões de Games/Padrão do Observador.md",
     "Game Design/Padrões de Games/Padrões de Games.md",
-    "Godot/Padrões/Definir atributos de um objeto como nodes filhos.md",
+    "Godot/Padrões/Organização de Código da Godot.md",
     "Godot/Padrões/Padrões de Código Da Godot.md",
+    "Imagens/Ordem do código.png",
+    "Estudo de Games.md",
+    "().md",
+    "Coding/Padrões de Código/Padrões de Código.md",
+    "Imagens",
+    "Godot/Padrões/Definir atributos de um objeto como nodes filhos.md",
+    "Godot/Padrões/JP Coelho.jpg",
+    "Game Design/Planejamento e Documentação",
+    "Sem título.canvas",
+    "2024-03-30.md",
     "Godot/Padrões",
     "Code Patterns.md",
     "Coding/Padrões de Código",
     "Coding/Normal.md",
-    "Sem título",
     "Game Design/Padrões de Games",
     "Game Design",
     "Godot",

@@ -2,6 +2,6 @@ São  [[Padrões de Código]] específicos Para jogos.
 
 ---
 
-Alguns Game Patterns que já anotei:
+### Alguns Padrões de Games que já anotei:
 - [[Padrão do Observador]]
 - 
