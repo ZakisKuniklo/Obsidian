@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Normal.md",
+                "file": "Coding/Normal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normal.md",
+                "file": "Coding/Normal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Normal.md",
+                "file": "Coding/Normal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Normal.md"
+                "file": "Coding/Normal.md"
               }
             }
           }
@@ -146,9 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "28f089e05a4de838",
+  "active": "c4dae99cf0107b5f",
   "lastOpenFiles": [
-    "Normal.md",
+    "Coding/Normal.md",
     "Coding"
   ]
 }
