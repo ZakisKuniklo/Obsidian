@@ -11,8 +11,12 @@
             "id": "28f089e05a4de838",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Godot/Padrões/Definir atributos de um objeto como nodes filhos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Godot/Padrões/Definir atributos de um objeto como nodes filhos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Godot/Padrões/Definir atributos de um objeto como nodes filhos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Normal.md"
+                "file": "Godot/Padrões/Definir atributos de um objeto como nodes filhos.md"
               }
             }
           }
@@ -140,11 +146,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c4dae99cf0107b5f",
+  "active": "28f089e05a4de838",
   "lastOpenFiles": [
+    "Godot/Padrões/Padrões de Código Da Godot.md",
+    "Godot/Padrões/Definir atributos de um objeto como nodes filhos.md",
+    "Game Design/Padrões de Games/Padrão do Observador.md",
+    "Game Design/Padrões de Games/Padrões de Games.md",
+    "Coding/Padrões de Código/Padrões de Código.md",
+    "Godot/Padrões",
+    "Code Patterns.md",
+    "Coding/Padrões de Código",
+    "Coding/Normal.md",
+    "Sem título",
+    "Game Design/Padrões de Games",
     "Game Design",
     "Godot",
-    "Coding/Normal.md",
     "Coding"
   ]
 }
