@@ -1,0 +1,1 @@
+Estas são anotações que farei do livro "Como ler livros" de Charles Van Doren e Mortimer Jerome Adler.
