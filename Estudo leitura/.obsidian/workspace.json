@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leitura Ativa.md",
+                "file": "Aprendizado.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b5c01410abfec381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Níveis de Leitura/Níveis de leitura.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57abd35e4cd4ecc2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leitura Ativa.md",
+                "file": "Níveis de Leitura/Níveis de leitura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leitura Ativa.md",
+                "file": "Níveis de Leitura/Níveis de leitura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leitura Ativa.md"
+                "file": "Níveis de Leitura/Níveis de leitura.md"
               }
             }
           }
@@ -146,11 +167,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8f8eb50aadca2b4e",
+  "active": "8204a016565d6a57",
   "lastOpenFiles": [
+    "Aprendizado.md",
     "Estudo Livro Como Ler Livros.md",
+    "Níveis de Leitura/Níveis de leitura.md",
     "Leitura Ativa.md",
-    "Sem título",
+    "Níveis de Leitura",
     "Welcome.md"
   ]
 }
