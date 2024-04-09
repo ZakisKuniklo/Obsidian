@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Níveis de Leitura/Níveis de leitura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Níveis de Leitura/Níveis de leitura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Níveis de Leitura/Níveis de leitura.md"
+              }
             }
           }
         ]
@@ -150,12 +155,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8f8eb50aadca2b4e",
+  "active": "b5c01410abfec381",
   "lastOpenFiles": [
-    "Aprendizado.md",
-    "Níveis de Leitura/Níveis de leitura.md",
     "Leitura Ativa.md",
     "Estudo Livro Como Ler Livros.md",
+    "Aprendizado.md",
+    "Níveis de Leitura/Níveis de leitura.md",
     "Níveis de Leitura",
     "Welcome.md"
   ]

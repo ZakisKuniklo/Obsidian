@@ -34,4 +34,3 @@ A leitura analítica é, como o termo popular diz, devorar o livro, é mastigá-
   
 ### Leitura Sintópica
 
-
