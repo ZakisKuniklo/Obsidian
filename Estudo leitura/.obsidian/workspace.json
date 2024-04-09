@@ -30,14 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "57abd35e4cd4ecc2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
@@ -167,11 +159,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8204a016565d6a57",
+  "active": "b5c01410abfec381",
   "lastOpenFiles": [
     "Aprendizado.md",
-    "Estudo Livro Como Ler Livros.md",
     "Níveis de Leitura/Níveis de leitura.md",
+    "Estudo Livro Como Ler Livros.md",
     "Leitura Ativa.md",
     "Níveis de Leitura",
     "Welcome.md"
