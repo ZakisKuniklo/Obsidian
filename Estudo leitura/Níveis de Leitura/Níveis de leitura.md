@@ -33,4 +33,8 @@ A leitura analítica é, como o termo popular diz, devorar o livro, é mastigá-
 
   
 ### Leitura Sintópica
+É o nível mais complexo e exigente, mesmo os livros lidos não sendo difíceis de se ler.
+Pode ser chamada de leitura comparativa, mas não é só uma comparação, o leitor sintópico usa dos diferentes pontos de vista dos diferentes livros que abordam o mesmo assunto para sintetizar conclusões que não estão presentes nos conteúdos individuais dos livros lidos e não seriam possíveis sem essa atividade comparativa e generativa.
+Por isso essa leitura é a mais complexa. Sua natureza generativa faz com que seja a mais ativa e trabalhosa, mas também a torna a mais compensadora, valendo muito a pena aprender suas técnicas.
+
 
