@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0627278d20356d89",
+        "id": "099ad4f3cb5b59ad",
         "type": "tabs",
         "children": [
           {
-            "id": "8f8eb50aadca2b4e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b5c01410abfec381",
+            "id": "6c64f48ee63cefbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Níveis de Leitura/Níveis de leitura.md",
+                "file": "Níveis de Leitura/Leitura Elementar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Níveis de Leitura/Níveis de leitura.md",
+                "file": "Níveis de Leitura/Leitura Elementar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Níveis de Leitura/Níveis de leitura.md",
+                "file": "Níveis de Leitura/Leitura Elementar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Níveis de Leitura/Níveis de leitura.md"
+                "file": "Níveis de Leitura/Leitura Elementar.md"
               }
             }
           }
@@ -155,12 +146,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b5c01410abfec381",
+  "active": "6c64f48ee63cefbb",
   "lastOpenFiles": [
     "Níveis de Leitura/Níveis de leitura.md",
-    "Leitura Ativa.md",
+    "Níveis de Leitura/Leitura Elementar.md",
+    "Níveis de Leitura/Leitura Inspecional.md",
     "Estudo Livro Como Ler Livros.md",
     "Aprendizado.md",
+    "Leitura Ativa.md",
     "Níveis de Leitura",
     "Welcome.md"
   ]

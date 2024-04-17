@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design/Padrões de Games/Padrão do Observador.md",
+                "file": "Game Design/The jerk effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design/Padrões de Games/Padrão do Observador.md",
+                "file": "Game Design/The jerk effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design/Padrões de Games/Padrão do Observador.md",
+                "file": "Game Design/The jerk effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Design/Padrões de Games/Padrão do Observador.md"
+                "file": "Game Design/The jerk effect.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "34952367ece0efec",
   "lastOpenFiles": [
+    "Game Design/Padrões de Games/Padrão do Observador.md",
+    "Game Design/The jerk effect.md",
     "Godot/Padrões/Padrões de Código Da Godot.md",
     "Godot/Padrões/Organização de Código da Godot.md",
     "Godot/Padrões/Definir atributos de um objeto como nodes filhos.md",
     "Game Design/Padrões de Games/Padrões de Games.md",
-    "Game Design/Padrões de Games/Padrão do Observador.md",
     "Coding/Padrões de Código/Padrões de Código.md",
     "Imagens/ObjetoKey Lsitener.png",
     "Imagens/Ordem do código.png",
