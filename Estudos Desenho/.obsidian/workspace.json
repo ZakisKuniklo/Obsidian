@@ -11,8 +11,24 @@
             "id": "1742cfda17ccf3f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Draw a box/Mindset.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8de2bb154a7e4ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draw a box/Fundamentos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Draw a box/Mindset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Draw a box/Mindset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Draw a box/Mindset.md"
               }
             }
           }
@@ -140,8 +158,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "94e2edfe33221dd1",
+  "active": "1742cfda17ccf3f2",
   "lastOpenFiles": [
+    "Draw a box/Draw a box.md",
+    "Draw a box/Fundamentos.md",
+    "Draw a box/Mindset.md",
+    "Draw a box",
     "Welcome.md"
   ]
 }
