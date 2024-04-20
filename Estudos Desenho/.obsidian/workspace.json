@@ -111,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Draw a box/Mindset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Draw a box/Mindset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Draw a box/Mindset.md"
+              }
             }
           }
         ]

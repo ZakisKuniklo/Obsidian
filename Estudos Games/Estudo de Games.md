@@ -3,3 +3,8 @@ Aqui estão minhas anotações sobre tudo que eu estudar sobre jogos. Game Desig
 #### Alguns materiais de estudo:
 - [Minha playlist de vídeos sobre game Design](https://www.youtube.com/playlist?list=PLE__TdPRuaOMtySqqeBH0namjiFu1Di3_)
 - [Página da Wiki do Gamux](https://github.com/GamuxUnicamp/Gamux-Wiki)
+
+##Glossário:
+- [[Padrões e Soluções de Código Gerais]]
+- [[Padrões de Games]]
+- [[Padrões e Soluções de Código Da Godot]]
