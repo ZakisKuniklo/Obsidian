@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/Redes Curso em Vídeo/Analisando  Redes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/Redes Curso em Vídeo/Analisando  Redes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Redes/Redes Curso em Vídeo/Analisando  Redes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,10 +156,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c69d2682cfb0f129",
+  "active": "2ff72fc1c537faf5",
   "lastOpenFiles": [
-    "Redes/Redes Curso em Vídeo/Curso de Redes do Curso em vídeo.md",
     "Redes/Redes Curso em Vídeo/Analisando  Redes.md",
+    "Redes/Redes Curso em Vídeo/Curso de Redes do Curso em vídeo.md",
     "Estudos Tecnologia.md",
     "Power BI/Power BI DSA",
     "Power BI",
