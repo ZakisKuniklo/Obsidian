@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "b15c3e2313c3fac6",
+    "type": "split",
+    "children": [
+      {
+        "id": "08d3f5fdf5d3716c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c69d2682cfb0f129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes/Redes Curso em Vídeo/Analisando  Redes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b0d9e2b91182db07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ff72fc1c537faf5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9e837a66452533c",
+    "type": "split",
+    "children": [
+      {
+        "id": "769c9c29886e75b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9cc3caf8418a4c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e739564b7097c65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb8fe2ce671c5d13",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6c5c4bd6b48617e",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb5ed406f2cee62f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38d6069b32bd4e9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Redes/Redes Curso em Vídeo/Analisando  Redes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f504313fc0e364e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Redes/Redes Curso em Vídeo/Analisando  Redes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dc0f25cc1031fd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45117c6873b8c7eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Redes/Redes Curso em Vídeo/Analisando  Redes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c69d2682cfb0f129",
+  "lastOpenFiles": [
+    "Redes/Redes Curso em Vídeo/Curso de Redes do Curso em vídeo.md",
+    "Redes/Redes Curso em Vídeo/Analisando  Redes.md",
+    "Estudos Tecnologia.md",
+    "Power BI/Power BI DSA",
+    "Power BI",
+    "Redes/Redes Curso em Vídeo",
+    "Redes",
+    "Welcome.md"
+  ]
+}
