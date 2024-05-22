@@ -21,3 +21,10 @@ IPV4 - 192.168.1.10
 - A - 255.0.0.0
 - B - 255.255.0.0
 - C - 255.255.255.0
+
+###### Dentro da rede ([[Calculo de Sub-redes|Sub-redes]])
+
+| Rede             | Host                                         | [[Tipos de Transmissão\|Broadcast]] |
+| ---------------- | -------------------------------------------- | ----------------------------------- |
+| Endereço da rede | Endereços dos equipamentos conectados a rede | endereço do broadcast               |
+| 192.168.1.0      | 192.168.1.1 *até* 192.168.1.254              | 192.168.1.255                       |
