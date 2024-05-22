@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Redes Curso em Vídeo/Classificação das Redes.md",
+                "file": "Redes/Redes Curso em Vídeo/Endereçamento IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/Redes Curso em Vídeo/Classificação das Redes.md",
+                "file": "Redes/Redes Curso em Vídeo/Endereçamento IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/Redes Curso em Vídeo/Classificação das Redes.md",
+                "file": "Redes/Redes Curso em Vídeo/Endereçamento IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes/Redes Curso em Vídeo/Classificação das Redes.md"
+                "file": "Redes/Redes Curso em Vídeo/Endereçamento IP.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "2ff72fc1c537faf5",
   "lastOpenFiles": [
+    "Redes/Redes Curso em Vídeo/Tirada de Dúvidas.md",
     "Redes/Redes Curso em Vídeo/Livros.md",
-    "Redes/Redes Curso em Vídeo/Classificação das Redes.md",
-    "Redes/Redes Curso em Vídeo/Analisando  Redes.md",
-    "Redes/Redes Curso em Vídeo/Curso de Redes do Curso em vídeo.md",
+    "Redes/Redes Curso em Vídeo/Tipos de Transmissão.md",
+    "Redes/Redes Curso em Vídeo/Endereçamento IP.md",
     "Redes/Redes Curso em Vídeo/Evolução das Redes.md",
+    "Redes/Redes Curso em Vídeo/Curso de Redes do Curso em vídeo.md",
+    "Redes/Redes Curso em Vídeo/Analisando  Redes.md",
+    "Redes/Redes Curso em Vídeo/Classificação das Redes.md",
     "Estudos Tecnologia.md",
     "Power BI/Power BI DSA",
     "Power BI",

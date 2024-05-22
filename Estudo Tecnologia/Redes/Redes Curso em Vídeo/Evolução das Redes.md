@@ -23,4 +23,4 @@
 	- WWW
 	- HTML
 - PARC
-	- Ethernet
+	- Ethernet ([[Classificação das Redes#Topologia|Ethernet]])

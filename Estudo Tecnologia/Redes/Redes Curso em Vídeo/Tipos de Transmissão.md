@@ -1,0 +1,4 @@
+- Unicast - Transmissão para único
+- Broadcast - Transmissão para todos
+- Multicast- Transmissão para múltiplos
+- Anycast - Transmissão para qualquer

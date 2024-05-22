@@ -1,3 +1,9 @@
 - Trabalhando com redes de computadores: conceito e prática
 - Informática Conceitos Básicos
 - Redes de Computadores por Tanenbaum
+- Use a cabeça: Redes de computadores
+- Redes de computadores: Teoria e prática por Douglas Rocha Mendes
+- Guia oficial de certificação CISCO Routing e Switching
+	- ICND1
+	- ICND2
+- Organização de computadores
