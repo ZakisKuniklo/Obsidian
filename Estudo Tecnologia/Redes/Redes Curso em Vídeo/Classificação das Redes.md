@@ -1,0 +1,4 @@
+- Servidores
+	- Terminais
+- Clientes
+	- Surgiram num processo de downsize

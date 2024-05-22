@@ -1,0 +1,3 @@
+- Trabalhando com redes de computadores: conceito e prática
+- Informática Conceitos Básicos
+- Redes de Computadores por Tanenbaum

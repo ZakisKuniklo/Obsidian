@@ -1,0 +1,26 @@
+- Início da Guerra fria
+- Década de 60
+	- Satélite Sputnik
+	- Corrida Espacial
+- Darpa nos EUA
+	- Inicia a ideia de transmitir dados
+- Internet nasceu em 1969
+	- Eram 4 pontos de transmissão e recebimento de dados
+		- Universidades
+		- Arpanet
+		- Alohanet
+- Era necessário criar padrões
+	- Protocolos arcaicos
+- 15 pontos em 1972
+	- Protocolo novo para transmissão simultânea de dados
+		- TCP-IP
+
+- 1986
+	- DNS
+- A rede cresce a ponto da internet se tornar concreta
+- 1990
+	- HTTP
+	- WWW
+	- HTML
+- PARC
+	- Ethernet
