@@ -41,8 +41,12 @@
             "id": "de1c9844823a3324",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Draw a box/Mindset.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -174,8 +178,8 @@
   },
   "active": "de1c9844823a3324",
   "lastOpenFiles": [
-    "Draw a box/Mindset.md",
     "Draw a box/Fundamentos.md",
+    "Draw a box/Mindset.md",
     "Draw a box/Draw a box.md",
     "Draw a box",
     "Welcome.md"
