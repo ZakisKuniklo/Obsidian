@@ -1,9 +1,9 @@
 IPV4 - 192.168.1.10
 
 ###### Classes IP
-- A - 0 a 127  -> 224
-- B - 128 a 191 -> 216
-- C - 192 a 223 -> 28
+- A - 0 a 127  -> 2^24
+- B - 128 a 191 -> 2^16
+- C - 192 a 223 -> 2^8
 - D - 224 a 239 -> Multicast
 - E - 240 a 255 -> Teste de novas tecnologias
 
