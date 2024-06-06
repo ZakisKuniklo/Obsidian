@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b0d9e2b91182db07",
+        "id": "747ae63e04e39f7f",
         "type": "tabs",
         "children": [
           {
-            "id": "2ff72fc1c537faf5",
+            "id": "935222c731ea6762",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Redes Curso em Vídeo/Endereçamento IP.md",
+                "file": "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/Redes Curso em Vídeo/Endereçamento IP.md",
+                "file": "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/Redes Curso em Vídeo/Endereçamento IP.md",
+                "file": "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes/Redes Curso em Vídeo/Endereçamento IP.md"
+                "file": "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md"
               }
             }
           }
@@ -146,10 +146,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2ff72fc1c537faf5",
+  "active": "935222c731ea6762",
   "lastOpenFiles": [
-    "Redes/Redes Curso em Vídeo/Calculo de Sub-redes.md",
+    "BI/Curso Básico Power BI DSA/Definições/Data Science.md",
+    "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
+    "BI/Curso Básico Power BI DSA/Definições/BIg data.md",
+    "BI/Curso Básico Power BI DSA/Definições/Business Intelligence.md",
+    "BI/Curso Básico Power BI DSA/Bibliografia e materiais de referência.md",
+    "BI/Curso Básico Power BI DSA/Definições",
+    "Redes/Redes Curso em Vídeo/Cabos de Rede.md",
+    "BI/Curso Básico Power BI DSA",
+    "BI",
     "Redes/Redes Curso em Vídeo/Endereçamento IP.md",
+    "Redes/Redes Curso em Vídeo/Calculo de Sub-redes.md",
     "Redes/Redes Curso em Vídeo/Classificação das Redes.md",
     "Redes/Redes Curso em Vídeo/Tirada de Dúvidas.md",
     "Redes/Redes Curso em Vídeo/Livros.md",

@@ -1,0 +1,1 @@
+São técnicas e ferramentas para transformar dados em informações úteis para a empresa. Possui o objetivo de aumentar o poder de análise de dados no processo de gerenciamento de uma empresa. São relatórios, dashboards, mineração de dados entre outros.

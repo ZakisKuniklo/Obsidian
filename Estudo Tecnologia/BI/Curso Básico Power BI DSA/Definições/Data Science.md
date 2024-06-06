@@ -1,0 +1,1 @@
+Data Science ou Ciência de Dados é um campo multidisciplinar que junta matemática, estatística e computação para fazer análises de fluxos gigantes de big data. Profissionais nessa área usam inteligência artificial e machine learning para analisar e entender essa grande quantidade de dados não estruturados.
