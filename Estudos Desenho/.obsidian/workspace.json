@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draw a box/Lição 1/Movimentação do Braço.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8de2bb154a7e4ccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draw a box/Fundamentos.md",
+                "file": "Draw a box/Lição 1/Elipses.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,19 +22,15 @@
         ]
       },
       {
-        "id": "d70acd718b62cced",
+        "id": "79e205f27df6b2c1",
         "type": "tabs",
         "children": [
           {
-            "id": "de1c9844823a3324",
+            "id": "7da4999c4a29cb01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draw a box/Mindset.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -115,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draw a box/Lição 1/Movimentação do Braço.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draw a box/Lição 1/Movimentação do Braço.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +136,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Draw a box/Lição 1/Movimentação do Braço.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "c7cf4f9ef0aae107",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -173,17 +161,26 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "94e2edfe33221dd1",
+  "active": "7da4999c4a29cb01",
   "lastOpenFiles": [
-    "Draw a box/imagens",
-    "Draw a box/imagens/braco.jpg",
-    "Draw a box/Draw a box.md",
-    "Draw a box/Lição 1/Movimentação do Braço.md",
+    "Draw a box/Lição 1/Elipses.md",
     "Draw a box/Fundamentos.md",
+    "Draw a box/Lição 1/Movimentação do Braço.md",
+    "Draw a box/Lição 1/Marcação de Linhas.md",
+    "Draw a box/imagens/elipses4.jpg",
+    "Draw a box/imagens/elipses5.jpg",
+    "Draw a box/imagens/elipses3.jpg",
+    "Draw a box/imagens/elipses2.jpg",
+    "Draw a box/imagens/elipses1.jpg",
+    "Draw a box/imagens/braco.jpg",
     "Draw a box/Mindset.md",
+    "2024-07-08.md",
+    "Draw a box/Draw a box.md",
+    "Draw a box/imagens",
     "Draw a box/Lição 1",
     "Draw a box",
     "Welcome.md"

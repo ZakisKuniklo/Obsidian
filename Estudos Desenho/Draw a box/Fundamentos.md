@@ -1,7 +1,7 @@
 São as bases do desenho. Uma base sólida permite uma construção grandiosa.
 Não há um consenso, nem toda arte usa todos os fundamentos, mas posso já listar alguns:
 - Observação
-- Linha
+- [[Marcação de Linhas|Linhas]]
 - Noção Espacial
 	- Forma
 	- Perspectiva
