@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c8796e09c80a8446",
+        "id": "139b52df3a0dae12",
         "type": "tabs",
         "children": [
           {
-            "id": "47f9cf3c38889a4f",
+            "id": "d343e0418845eac8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "BI/Intensivo Hashtag Treinamentos/Apostila Intensivão de Power BI - Aula 1.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BI/Intensivo Hashtag Treinamentos/Apostila Intensivão de Power BI - Aula 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BI/Intensivo Hashtag Treinamentos/Apostila Intensivão de Power BI - Aula 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BI/Intensivo Hashtag Treinamentos/Apostila Intensivão de Power BI - Aula 1.pdf"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "239710031e949c99",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -145,18 +147,18 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "47f9cf3c38889a4f",
+  "active": "d343e0418845eac8",
   "lastOpenFiles": [
     "BI/Intensivo Hashtag Treinamentos/Apostila Intensivão de Power BI - Aula 1.pdf",
+    "BI/Curso Básico Power BI DSA/Bibliografia e materiais de referência.md",
+    "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
+    "BI/Curso Básico Power BI DSA/Definições/Data Science.md",
+    "BI/Curso Básico Power BI DSA/Definições/Business Intelligence.md",
+    "BI/Curso Básico Power BI DSA/Definições/BIg data.md",
     "Fluxo do jogo.md",
     "Estudos Tecnologia.md",
     "tarefa.md",
-    "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
     "BI/Intensivo Hashtag Treinamentos",
-    "BI/Curso Básico Power BI DSA/Definições/Data Science.md",
-    "BI/Curso Básico Power BI DSA/Definições/BIg data.md",
-    "BI/Curso Básico Power BI DSA/Definições/Business Intelligence.md",
-    "BI/Curso Básico Power BI DSA/Bibliografia e materiais de referência.md",
     "BI/Curso Básico Power BI DSA/Definições",
     "Redes/Redes Curso em Vídeo/Cabos de Rede.md",
     "BI/Curso Básico Power BI DSA",

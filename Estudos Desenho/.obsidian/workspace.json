@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draw a box/Mindset.md",
+                "file": "Draw a box/Lição 1/Movimentação do Braço.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draw a box/Mindset.md",
+                "file": "Draw a box/Lição 1/Movimentação do Braço.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draw a box/Mindset.md",
+                "file": "Draw a box/Lição 1/Movimentação do Braço.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draw a box/Mindset.md"
+                "file": "Draw a box/Lição 1/Movimentação do Braço.md"
               }
             }
           }
@@ -176,11 +176,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "de1c9844823a3324",
+  "active": "94e2edfe33221dd1",
   "lastOpenFiles": [
+    "Draw a box/imagens",
+    "Draw a box/imagens/braco.jpg",
+    "Draw a box/Draw a box.md",
+    "Draw a box/Lição 1/Movimentação do Braço.md",
     "Draw a box/Fundamentos.md",
     "Draw a box/Mindset.md",
-    "Draw a box/Draw a box.md",
+    "Draw a box/Lição 1",
     "Draw a box",
     "Welcome.md"
   ]
