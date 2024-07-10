@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
+                "file": "Python/Intensivo hashtag/Aula 1 - Automação.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
+                "file": "Python/Intensivo hashtag/Aula 1 - Automação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
+                "file": "Python/Intensivo hashtag/Aula 1 - Automação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md"
+                "file": "Python/Intensivo hashtag/Aula 1 - Automação.md"
               }
             }
           },
@@ -157,9 +157,12 @@
   },
   "active": "d343e0418845eac8",
   "lastOpenFiles": [
+    "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
+    "Python/Intensivo hashtag/Aula 1 - Automação.md",
+    "Python/Intensivo hashtag",
+    "Python",
     "BI/Intensivo Hashtag Treinamentos/Apostila Intensivão de Power BI - Aula 1.pdf",
     "BI/Curso Básico Power BI DSA/Bibliografia e materiais de referência.md",
-    "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
     "BI/Curso Básico Power BI DSA/Definições/Data Science.md",
     "BI/Curso Básico Power BI DSA/Definições/Business Intelligence.md",
     "BI/Curso Básico Power BI DSA/Definições/BIg data.md",
@@ -183,7 +186,6 @@
     "Power BI/Power BI DSA",
     "Power BI",
     "Redes/Redes Curso em Vídeo",
-    "Redes",
     "Welcome.md"
   ]
 }
