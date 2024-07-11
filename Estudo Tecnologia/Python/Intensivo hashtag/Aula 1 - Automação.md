@@ -13,5 +13,6 @@ pyautogui.write - escrita
 pyautogui.press - apertar 1 tecla
 pyautogui.hotkey - tecla de função
 pyautogui.scroll - rolar a tela
+time.sleep(tempo) - pausa por certo tempo
 ```
 
