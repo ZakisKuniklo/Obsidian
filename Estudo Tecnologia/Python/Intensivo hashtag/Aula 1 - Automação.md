@@ -12,5 +12,6 @@ pyautogui.click - clique com o mouse
 pyautogui.write - escrita
 pyautogui.press - apertar 1 tecla
 pyautogui.hotkey - tecla de função
+pyautogui.scroll - rolar a tela
 ```
 
