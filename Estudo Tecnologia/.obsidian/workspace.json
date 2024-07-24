@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Intensivo hashtag/Aula 1 - Automação.md",
+                "file": "Python/Intensivo hashtag/Aula 2 - Análise de dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Intensivo hashtag/Aula 1 - Automação.md",
+                "file": "Python/Intensivo hashtag/Aula 2 - Análise de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Intensivo hashtag/Aula 1 - Automação.md",
+                "file": "Python/Intensivo hashtag/Aula 2 - Análise de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Intensivo hashtag/Aula 1 - Automação.md"
+                "file": "Python/Intensivo hashtag/Aula 2 - Análise de dados.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "d343e0418845eac8",
   "lastOpenFiles": [
-    "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
     "Python/Intensivo hashtag/Aula 1 - Automação.md",
+    "Python/Intensivo hashtag/Aula 2 - Análise de dados.md",
+    "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
     "Python/Intensivo hashtag",
     "Python",
     "BI/Intensivo Hashtag Treinamentos/Apostila Intensivão de Power BI - Aula 1.pdf",
