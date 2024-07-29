@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "41804d06bc882e92",
+    "id": "dd672d6b0394c41c",
     "type": "split",
     "children": [
       {
-        "id": "fe2b53d27d41936b",
+        "id": "826b6b7770795d44",
         "type": "tabs",
         "children": [
           {
-            "id": "1742cfda17ccf3f2",
+            "id": "0598547c29c5c76e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draw a box/Lição 1/Caixas/Caixas e perspectiva.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a22d4247dee962cb",
+    "id": "c30bf960a6f8c837",
     "type": "split",
     "children": [
       {
-        "id": "32ca2e68229e7b2a",
+        "id": "d19a6d16bab605e5",
         "type": "tabs",
         "children": [
           {
-            "id": "94e2edfe33221dd1",
+            "id": "7381921114d2f13b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "145a8ad8db03a58d",
+            "id": "67d61564aaa2e312",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "183aeeb71668ee05",
+            "id": "b3c9f91c3275207b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "2843e3261bcda0f9",
+    "id": "a39975dfd9f38ba6",
     "type": "split",
     "children": [
       {
-        "id": "457aeb59b7237b90",
+        "id": "ee02c487f8db5f51",
         "type": "tabs",
         "children": [
           {
-            "id": "27fd04b687b0e62a",
+            "id": "7e4b1abc2c9d76ab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draw a box/Lição 1/Caixas/Caixas e perspectiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "b1e7410c4724c7e0",
+            "id": "ac6eb0adc1131d28",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draw a box/Lição 1/Caixas/Caixas e perspectiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cd26146099026ef3",
+            "id": "22545faea48d90f1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,20 +114,10 @@
             }
           },
           {
-            "id": "d6c3bebc010c766f",
+            "id": "4e846d3aa6564c57",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Draw a box/Lição 1/Caixas/Caixas e perspectiva.md"
-              }
-            }
-          },
-          {
-            "id": "c7cf4f9ef0aae107",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -151,30 +135,9 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-kanban:Criar um novo quadro": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1742cfda17ccf3f2",
-  "lastOpenFiles": [
-    "Draw a box/Lição 1/Elipses.md",
-    "Draw a box/Lição 1/Caixas/Caixas e perspectiva.md",
-    "Draw a box/Lição 1/Caixas",
-    "Draw a box/Fundamentos.md",
-    "Draw a box/Lição 1/Movimentação do Braço.md",
-    "Draw a box/Lição 1/Marcação de Linhas.md",
-    "Draw a box/imagens/elipses4.jpg",
-    "Draw a box/imagens/elipses5.jpg",
-    "Draw a box/imagens/elipses3.jpg",
-    "Draw a box/imagens/elipses2.jpg",
-    "Draw a box/imagens/elipses1.jpg",
-    "Draw a box/imagens/braco.jpg",
-    "Draw a box/Mindset.md",
-    "2024-07-08.md",
-    "Draw a box/Draw a box.md",
-    "Draw a box/imagens",
-    "Draw a box/Lição 1",
-    "Draw a box",
-    "Welcome.md"
-  ]
+  "active": "0598547c29c5c76e",
+  "lastOpenFiles": []
 }
