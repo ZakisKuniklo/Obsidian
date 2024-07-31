@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "b15c3e2313c3fac6",
+    "id": "b01de23e14f6e4f4",
     "type": "split",
     "children": [
       {
-        "id": "139b52df3a0dae12",
+        "id": "7644d426df9d0f26",
         "type": "tabs",
         "children": [
           {
-            "id": "d343e0418845eac8",
+            "id": "690eb28d0aadbc6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b064c44445dc92c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Intensivo hashtag/Aula 3 - IA.md",
+                "file": "BI/Curso Básico Power BI DSA/Modelagem de dados/Modelagem de dados.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d9e837a66452533c",
+    "id": "ce48492903f41fb0",
     "type": "split",
     "children": [
       {
-        "id": "769c9c29886e75b8",
+        "id": "d9e2f856da29d1aa",
         "type": "tabs",
         "children": [
           {
-            "id": "a9cc3caf8418a4c3",
+            "id": "898bd7d30cbc0c20",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "7e739564b7097c65",
+            "id": "6463807942d3412c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "bb8fe2ce671c5d13",
+            "id": "e4cc6487f1d851a2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +72,28 @@
     "width": 300
   },
   "right": {
-    "id": "c6c5c4bd6b48617e",
+    "id": "a2429aa10517b155",
     "type": "split",
     "children": [
       {
-        "id": "eb5ed406f2cee62f",
+        "id": "eb59e452d930ec96",
         "type": "tabs",
         "children": [
           {
-            "id": "38d6069b32bd4e9b",
+            "id": "b8000d4103018dcd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1222421e2044a476",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Intensivo hashtag/Aula 3 - IA.md",
+                "file": "BI/Curso Básico Power BI DSA/Modelagem de dados/Modelagem de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +105,19 @@
             }
           },
           {
-            "id": "2f504313fc0e364e",
+            "id": "6c5f303a0ce81a82",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Intensivo hashtag/Aula 3 - IA.md",
+                "file": "BI/Curso Básico Power BI DSA/Modelagem de dados/Modelagem de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8dc0f25cc1031fd5",
+            "id": "dc32a86fd2a13ec3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,21 +128,13 @@
             }
           },
           {
-            "id": "45117c6873b8c7eb",
+            "id": "86bf4d7ba7cfe3c6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Intensivo hashtag/Aula 3 - IA.md"
+                "file": "BI/Curso Básico Power BI DSA/Modelagem de dados/Modelagem de dados.md"
               }
-            }
-          },
-          {
-            "id": "239710031e949c99",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -159,49 +146,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Criar um novo quadro": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-kanban:Criar um novo quadro": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9b064c44445dc92c",
-  "lastOpenFiles": [
-    "BI/Curso Básico Power BI DSA/Modelagem de dados/Modelagem de dados.md",
-    "BI/Curso Básico Power BI DSA/Modelagem de dados",
-    "Python/Intensivo hashtag/Aula 3 - IA.md",
-    "BI/Curso Básico Power BI DSA/Definições/Data Science.md",
-    "BI/Curso Básico Power BI DSA/Definições/Business Intelligence.md",
-    "BI/Curso Básico Power BI DSA/Definições/BIg data.md",
-    "BI/Curso Básico Power BI DSA/Bibliografia e materiais de referência.md",
-    "Python/Intensivo hashtag/Aula 2 - Análise de dados.md",
-    "Python/Intensivo hashtag/Aula 1 - Automação.md",
-    "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
-    "Python/Intensivo hashtag",
-    "Python",
-    "BI/Intensivo Hashtag Treinamentos/Apostila Intensivão de Power BI - Aula 1.pdf",
-    "Fluxo do jogo.md",
-    "Estudos Tecnologia.md",
-    "tarefa.md",
-    "BI/Intensivo Hashtag Treinamentos",
-    "BI/Curso Básico Power BI DSA/Definições",
-    "Redes/Redes Curso em Vídeo/Cabos de Rede.md",
-    "BI/Curso Básico Power BI DSA",
-    "BI",
-    "Redes/Redes Curso em Vídeo/Endereçamento IP.md",
-    "Redes/Redes Curso em Vídeo/Calculo de Sub-redes.md",
-    "Redes/Redes Curso em Vídeo/Classificação das Redes.md",
-    "Redes/Redes Curso em Vídeo/Tirada de Dúvidas.md",
-    "Redes/Redes Curso em Vídeo/Livros.md",
-    "Redes/Redes Curso em Vídeo/Tipos de Transmissão.md",
-    "Redes/Redes Curso em Vídeo/Evolução das Redes.md",
-    "Redes/Redes Curso em Vídeo/Curso de Redes do Curso em vídeo.md",
-    "Redes/Redes Curso em Vídeo/Analisando  Redes.md",
-    "Power BI/Power BI DSA",
-    "Power BI",
-    "Welcome.md"
-  ]
+  "active": "690eb28d0aadbc6f",
+  "lastOpenFiles": []
 }
