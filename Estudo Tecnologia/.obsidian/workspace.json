@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b064c44445dc92c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Intensivo hashtag/Aula 3 - IA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
+                "file": "Python/Intensivo hashtag/Aula 3 - IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
+                "file": "Python/Intensivo hashtag/Aula 3 - IA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md"
+                "file": "Python/Intensivo hashtag/Aula 3 - IA.md"
               }
             }
           },
@@ -155,8 +168,9 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "a9cc3caf8418a4c3",
+  "active": "9b064c44445dc92c",
   "lastOpenFiles": [
+    "Python/Intensivo hashtag/Aula 3 - IA.md",
     "BI/Curso Básico Power BI DSA/Definições/Data Science.md",
     "BI/Curso Básico Power BI DSA/Definições/Business Intelligence.md",
     "BI/Curso Básico Power BI DSA/Definições/BIg data.md",
