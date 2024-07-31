@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
+                "file": "BI/Curso Básico Power BI DSA/Modelagem de dados/Modelagem de dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
+                "file": "BI/Curso Básico Power BI DSA/Modelagem de dados/Modelagem de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
+                "file": "BI/Curso Básico Power BI DSA/Modelagem de dados/Modelagem de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md"
+                "file": "BI/Curso Básico Power BI DSA/Modelagem de dados/Modelagem de dados.md"
               }
             }
           },
@@ -155,15 +155,17 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "a9cc3caf8418a4c3",
+  "active": "d343e0418845eac8",
   "lastOpenFiles": [
+    "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
+    "BI/Curso Básico Power BI DSA/Modelagem de dados/Modelagem de dados.md",
+    "BI/Curso Básico Power BI DSA/Modelagem de dados",
     "BI/Curso Básico Power BI DSA/Definições/Data Science.md",
     "BI/Curso Básico Power BI DSA/Definições/Business Intelligence.md",
     "BI/Curso Básico Power BI DSA/Definições/BIg data.md",
     "BI/Curso Básico Power BI DSA/Bibliografia e materiais de referência.md",
     "Python/Intensivo hashtag/Aula 2 - Análise de dados.md",
     "Python/Intensivo hashtag/Aula 1 - Automação.md",
-    "BI/Curso Básico Power BI DSA/Definições/Microsoft Power BI.md",
     "Python/Intensivo hashtag",
     "Python",
     "BI/Intensivo Hashtag Treinamentos/Apostila Intensivão de Power BI - Aula 1.pdf",
@@ -186,7 +188,6 @@
     "Redes/Redes Curso em Vídeo/Analisando  Redes.md",
     "Power BI/Power BI DSA",
     "Power BI",
-    "Redes/Redes Curso em Vídeo",
     "Welcome.md"
   ]
 }
