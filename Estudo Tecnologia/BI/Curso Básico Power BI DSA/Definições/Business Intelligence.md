@@ -1,1 +1,2 @@
 São técnicas e ferramentas para transformar dados em informações úteis para a empresa. Possui o objetivo de aumentar o poder de análise de dados no processo de gerenciamento de uma empresa. São relatórios, dashboards, mineração de dados entre outros.
+O foco de BI é analisar o passado analisando métricas e padrões, tendo uma visão descritiva do que aconteceu. Faz bastante parte da [[Data Science|Ciência de Dados]] atuando em análises preditivas.
