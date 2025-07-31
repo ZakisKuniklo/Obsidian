@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BI/Curso Básico Power BI DSA/Modelagem de dados/Modelagem de dados.md",
+                "file": "Estudos Tecnologia.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Estudos Tecnologia"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -84,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -101,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Modelagem de dados"
             }
           },
           {
@@ -113,7 +126,9 @@
                 "file": "BI/Curso Básico Power BI DSA/Modelagem de dados/Modelagem de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Modelagem de dados"
             }
           },
           {
@@ -124,7 +139,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -134,7 +151,9 @@
               "type": "outline",
               "state": {
                 "file": "BI/Curso Básico Power BI DSA/Modelagem de dados/Modelagem de dados.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Modelagem de dados"
             }
           }
         ]
@@ -156,5 +175,19 @@
     }
   },
   "active": "690eb28d0aadbc6f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Pasted image 20250407170713.png",
+    "Sem título.md",
+    "Pasted image 20250407162152.png",
+    "Estudos Tecnologia.md",
+    "Pasted image 20250407170704.png",
+    "Pasted image 20250407170654.png",
+    "Pasted image 20250407170644.png",
+    "Pasted image 20250407170634.png",
+    "Pasted image 20250407170624.png",
+    "Pasted image 20250407170612.png",
+    "Pasted image 20250407170600.png",
+    "Pasted image 20250407170547.png",
+    "BI/Curso Básico Power BI DSA/Modelagem de dados/Modelagem de dados.md"
+  ]
 }
